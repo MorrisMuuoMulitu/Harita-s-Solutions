@@ -1,0 +1,6 @@
+C:\Users\dell\Desktop\C#\solutions\NumberEvaluation\NumberEvaluation\bin\Debug\NumberEvaluation.exe.config
+C:\Users\dell\Desktop\C#\solutions\NumberEvaluation\NumberEvaluation\obj\Debug\NumberEvaluation.csprojResolveAssemblyReference.cache
+C:\Users\dell\Desktop\C#\solutions\NumberEvaluation\NumberEvaluation\bin\Debug\NumberEvaluation.exe
+C:\Users\dell\Desktop\C#\solutions\NumberEvaluation\NumberEvaluation\bin\Debug\NumberEvaluation.pdb
+C:\Users\dell\Desktop\C#\solutions\NumberEvaluation\NumberEvaluation\obj\Debug\NumberEvaluation.exe
+C:\Users\dell\Desktop\C#\solutions\NumberEvaluation\NumberEvaluation\obj\Debug\NumberEvaluation.pdb

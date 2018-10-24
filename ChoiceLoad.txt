@@ -1,0 +1,65 @@
+ private void ChoiseLoad() 
+        {
+            CheckBox checkBox;
+            Label label;
+            RadioButton radioButton;
+            Panel panel;
+            TextBox textBox;
+
+            int i = 0;
+            foreach (var pizza in pizzas)
+	    {
+		  // checkbox
+            checkBox = new CheckBox();
+            checkBox.Text = pizza.Name;
+            checkBox.TextAlign = ContentAlignment.MiddleLeft;
+            checkBox.Location = new Point(left, up + i * distY);
+            checkBox.Size = new Size(sizeChk, sizeY);
+
+            checkboxes.Add(checkBox);
+
+            pnlCenter.Controls.Add(checkBox);
+
+                // panel
+            panel = new Panel();
+            panel.Size = new Size(panelX, sizeY);
+            panel.Location = new Point(left + sizeChk, up + i * distY);
+            pnlCenter.Controls.Add(panel);
+
+                //radioButton Smallprice
+            radioButton = new RadioButton();
+            radioButton.Size = new Size(sizePrice, sizeY);
+            radioButton.TextAlign = ContentAlignment.MiddleRight;
+            radioButton.Text = pizza.PriceSmall.ToString();
+            radioButton.Location = new Point(0, 0);
+            rdBtSmallPrices.Add(radioButton);
+            panel.Controls.Add(radioButton);
+
+            label = new Label();
+            label.TextAlign = ContentAlignment.MiddleLeft;
+            label.Text = " Ft";
+            label.Location = new Point(sizePrice + dist, 0);
+            label.Size = new Size(sizeFt, sizeY);
+            panel.Controls.Add(label);
+
+                // radiobutton largeprice
+                // TODO: solve it
+
+
+                //Ft text
+                // TODO:
+
+
+                //textBox pieces
+                // TODO:
+
+                // Piece text
+                // TODO:
+
+                // modify i loopcounter
+                //TO DO
+            
+
+	     }
+           
+        }

@@ -1,0 +1,9 @@
+D:\Oktatas\Erasmus\Gyakorlat9\DynamiControls\DynamiControls\bin\Debug\DynamiControls.exe.config
+D:\Oktatas\Erasmus\Gyakorlat9\DynamiControls\DynamiControls\bin\Debug\DynamiControls.exe
+D:\Oktatas\Erasmus\Gyakorlat9\DynamiControls\DynamiControls\bin\Debug\DynamiControls.pdb
+D:\Oktatas\Erasmus\Gyakorlat9\DynamiControls\DynamiControls\obj\Debug\DynamiControls.csprojResolveAssemblyReference.cache
+D:\Oktatas\Erasmus\Gyakorlat9\DynamiControls\DynamiControls\obj\Debug\DynamiControls.Form1.resources
+D:\Oktatas\Erasmus\Gyakorlat9\DynamiControls\DynamiControls\obj\Debug\DynamiControls.Properties.Resources.resources
+D:\Oktatas\Erasmus\Gyakorlat9\DynamiControls\DynamiControls\obj\Debug\DynamiControls.csproj.GenerateResource.Cache
+D:\Oktatas\Erasmus\Gyakorlat9\DynamiControls\DynamiControls\obj\Debug\DynamiControls.exe
+D:\Oktatas\Erasmus\Gyakorlat9\DynamiControls\DynamiControls\obj\Debug\DynamiControls.pdb

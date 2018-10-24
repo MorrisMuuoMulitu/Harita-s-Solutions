@@ -1,0 +1,8 @@
+﻿Lucfenyő;12;luc1.jpg
+Feketefenyő;17;fekete.jpg
+Normandfenyő;14;nordmann1.jpg
+Lucfenyő;16;luc1.jpg
+Jegenyefenyő;19;jegenye.jpg
+Ezüstfenyő;16;ezust.jpg
+Duglászfenyő;18;douglas.jpg
+Normandfenyő;20;nordmann2.jpg

@@ -1,0 +1,5 @@
+E:\myStuff\desktop\C#\solutions\Pizza\Pizza\obj\Debug\PizzaSimple2.csprojResolveAssemblyReference.cache
+E:\myStuff\desktop\C#\solutions\Pizza\Pizza\obj\Debug\PizzaSimple2.Form1.resources
+E:\myStuff\desktop\C#\solutions\Pizza\Pizza\obj\Debug\Pizza.Properties.Resources.resources
+E:\myStuff\desktop\C#\solutions\Pizza\Pizza\obj\Debug\PizzaSimple2.csproj.GenerateResource.Cache
+E:\myStuff\desktop\C#\solutions\Pizza\Pizza\bin\Debug\Pizza.exe.config

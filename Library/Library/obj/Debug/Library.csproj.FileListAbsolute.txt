@@ -1,0 +1,6 @@
+C:\Users\dell\Desktop\C#\solutions\Library\Library\bin\Debug\Library.exe.config
+C:\Users\dell\Desktop\C#\solutions\Library\Library\bin\Debug\Library.exe
+C:\Users\dell\Desktop\C#\solutions\Library\Library\bin\Debug\Library.pdb
+C:\Users\dell\Desktop\C#\solutions\Library\Library\obj\Debug\Library.csprojResolveAssemblyReference.cache
+C:\Users\dell\Desktop\C#\solutions\Library\Library\obj\Debug\Library.exe
+C:\Users\dell\Desktop\C#\solutions\Library\Library\obj\Debug\Library.pdb

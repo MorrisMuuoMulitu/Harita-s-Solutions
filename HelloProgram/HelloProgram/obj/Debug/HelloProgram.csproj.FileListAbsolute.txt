@@ -1,0 +1,6 @@
+C:\Users\dell\Desktop\C#\solutions\HelloProgram\HelloProgram\bin\Debug\HelloProgram.exe.config
+C:\Users\dell\Desktop\C#\solutions\HelloProgram\HelloProgram\bin\Debug\HelloProgram.exe
+C:\Users\dell\Desktop\C#\solutions\HelloProgram\HelloProgram\bin\Debug\HelloProgram.pdb
+C:\Users\dell\Desktop\C#\solutions\HelloProgram\HelloProgram\obj\Debug\HelloProgram.csprojResolveAssemblyReference.cache
+C:\Users\dell\Desktop\C#\solutions\HelloProgram\HelloProgram\obj\Debug\HelloProgram.exe
+C:\Users\dell\Desktop\C#\solutions\HelloProgram\HelloProgram\obj\Debug\HelloProgram.pdb

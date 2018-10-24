@@ -1,0 +1,2 @@
+Vegetarian;890;1290
+Margareta;950;1410

@@ -1,0 +1,9 @@
+E:\myStuff\desktop\C#\solutions\PizzaDynamic\PizzaDynamic\bin\Debug\PizzaDynamic.exe.config
+E:\myStuff\desktop\C#\solutions\PizzaDynamic\PizzaDynamic\obj\Debug\PizzaDynamic.csprojResolveAssemblyReference.cache
+E:\myStuff\desktop\C#\solutions\PizzaDynamic\PizzaDynamic\obj\Debug\PizzaDynamic.Form1.resources
+E:\myStuff\desktop\C#\solutions\PizzaDynamic\PizzaDynamic\obj\Debug\PizzaDynamic.Properties.Resources.resources
+E:\myStuff\desktop\C#\solutions\PizzaDynamic\PizzaDynamic\obj\Debug\PizzaDynamic.csproj.GenerateResource.Cache
+E:\myStuff\desktop\C#\solutions\PizzaDynamic\PizzaDynamic\bin\Debug\PizzaDynamic.exe
+E:\myStuff\desktop\C#\solutions\PizzaDynamic\PizzaDynamic\bin\Debug\PizzaDynamic.pdb
+E:\myStuff\desktop\C#\solutions\PizzaDynamic\PizzaDynamic\obj\Debug\PizzaDynamic.exe
+E:\myStuff\desktop\C#\solutions\PizzaDynamic\PizzaDynamic\obj\Debug\PizzaDynamic.pdb

@@ -1,0 +1,6 @@
+C:\Users\dell\Desktop\C#\solutions\FactorialCalculation\FactorialCalculation\bin\Debug\FactorialCalculation.exe.config
+C:\Users\dell\Desktop\C#\solutions\FactorialCalculation\FactorialCalculation\bin\Debug\FactorialCalculation.exe
+C:\Users\dell\Desktop\C#\solutions\FactorialCalculation\FactorialCalculation\bin\Debug\FactorialCalculation.pdb
+C:\Users\dell\Desktop\C#\solutions\FactorialCalculation\FactorialCalculation\obj\Debug\FactorialCalculation.csprojResolveAssemblyReference.cache
+C:\Users\dell\Desktop\C#\solutions\FactorialCalculation\FactorialCalculation\obj\Debug\FactorialCalculation.exe
+C:\Users\dell\Desktop\C#\solutions\FactorialCalculation\FactorialCalculation\obj\Debug\FactorialCalculation.pdb

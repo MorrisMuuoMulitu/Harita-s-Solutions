@@ -1,0 +1,2 @@
+C:\Users\dell\Desktop\C#\solutions\Library1\Library1\bin\Debug\Library1.exe.config
+C:\Users\dell\Desktop\C#\solutions\Library1\Library1\obj\Debug\Library1.csprojResolveAssemblyReference.cache

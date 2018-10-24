@@ -1,0 +1,9 @@
+D:\Oktatas\Programming2Angol\Gyakorlat\Gyak12\ImageAlbum\ImageAlbum\bin\Debug\ImageAlbum.exe.config
+D:\Oktatas\Programming2Angol\Gyakorlat\Gyak12\ImageAlbum\ImageAlbum\bin\Debug\ImageAlbum.exe
+D:\Oktatas\Programming2Angol\Gyakorlat\Gyak12\ImageAlbum\ImageAlbum\bin\Debug\ImageAlbum.pdb
+D:\Oktatas\Programming2Angol\Gyakorlat\Gyak12\ImageAlbum\ImageAlbum\obj\Debug\ImageAlbum.csprojResolveAssemblyReference.cache
+D:\Oktatas\Programming2Angol\Gyakorlat\Gyak12\ImageAlbum\ImageAlbum\obj\Debug\ImageAlbum.Form1.resources
+D:\Oktatas\Programming2Angol\Gyakorlat\Gyak12\ImageAlbum\ImageAlbum\obj\Debug\ImageAlbum.Properties.Resources.resources
+D:\Oktatas\Programming2Angol\Gyakorlat\Gyak12\ImageAlbum\ImageAlbum\obj\Debug\ImageAlbum.csproj.GenerateResource.Cache
+D:\Oktatas\Programming2Angol\Gyakorlat\Gyak12\ImageAlbum\ImageAlbum\obj\Debug\ImageAlbum.exe
+D:\Oktatas\Programming2Angol\Gyakorlat\Gyak12\ImageAlbum\ImageAlbum\obj\Debug\ImageAlbum.pdb

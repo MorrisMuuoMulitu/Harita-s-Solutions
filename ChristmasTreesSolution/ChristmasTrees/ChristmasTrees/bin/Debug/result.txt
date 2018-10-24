@@ -1,0 +1,8 @@
+Lucfenyő;12;0
+Feketefenyő;17;5
+Normandfenyő;14;0
+Lucfenyő;16;2
+Jegenyefenyő;19;5
+Ezüstfenyő;16;2
+Duglászfenyő;18;0
+Normandfenyő;20;0

@@ -1,0 +1,6 @@
+E:\myStuff\desktop\C#\solutions\FairyTales\FairyTales\bin\Debug\FairyTales.exe.config
+E:\myStuff\desktop\C#\solutions\FairyTales\FairyTales\bin\Debug\FairyTales.exe
+E:\myStuff\desktop\C#\solutions\FairyTales\FairyTales\bin\Debug\FairyTales.pdb
+E:\myStuff\desktop\C#\solutions\FairyTales\FairyTales\obj\Debug\FairyTales.csprojResolveAssemblyReference.cache
+E:\myStuff\desktop\C#\solutions\FairyTales\FairyTales\obj\Debug\FairyTales.exe
+E:\myStuff\desktop\C#\solutions\FairyTales\FairyTales\obj\Debug\FairyTales.pdb

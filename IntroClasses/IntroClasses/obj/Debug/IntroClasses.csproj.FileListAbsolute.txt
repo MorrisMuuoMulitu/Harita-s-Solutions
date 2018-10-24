@@ -1,0 +1,6 @@
+C:\Users\dell\Desktop\C#\solutions\IntroClasses\IntroClasses\bin\Debug\IntroClasses.exe.config
+C:\Users\dell\Desktop\C#\solutions\IntroClasses\IntroClasses\bin\Debug\IntroClasses.exe
+C:\Users\dell\Desktop\C#\solutions\IntroClasses\IntroClasses\bin\Debug\IntroClasses.pdb
+C:\Users\dell\Desktop\C#\solutions\IntroClasses\IntroClasses\obj\Debug\IntroClasses.csprojResolveAssemblyReference.cache
+C:\Users\dell\Desktop\C#\solutions\IntroClasses\IntroClasses\obj\Debug\IntroClasses.exe
+C:\Users\dell\Desktop\C#\solutions\IntroClasses\IntroClasses\obj\Debug\IntroClasses.pdb

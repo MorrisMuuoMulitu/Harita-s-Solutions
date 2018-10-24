@@ -1,0 +1,30 @@
+E:\munka\SzendroiProg3\ChristmasTrees\ChristmasTrees\bin\Debug\ChristmasTrees.exe.config
+E:\munka\SzendroiProg3\ChristmasTrees\ChristmasTrees\obj\Debug\ChristmasTrees.csprojResolveAssemblyReference.cache
+E:\munka\SzendroiProg3\ChristmasTrees\ChristmasTrees\obj\Debug\ChristmasTrees.Form1.resources
+E:\munka\SzendroiProg3\ChristmasTrees\ChristmasTrees\obj\Debug\ChristmasTrees.Properties.Resources.resources
+E:\munka\SzendroiProg3\ChristmasTrees\ChristmasTrees\obj\Debug\ChristmasTrees.SizeForm.resources
+E:\munka\SzendroiProg3\ChristmasTrees\ChristmasTrees\obj\Debug\ChristmasTrees.VoteForm.resources
+E:\munka\SzendroiProg3\ChristmasTrees\ChristmasTrees\obj\Debug\ChristmasTrees.csproj.GenerateResource.Cache
+E:\munka\SzendroiProg3\ChristmasTrees\ChristmasTrees\bin\Debug\ChristmasTrees.exe
+E:\munka\SzendroiProg3\ChristmasTrees\ChristmasTrees\bin\Debug\ChristmasTrees.pdb
+E:\munka\SzendroiProg3\ChristmasTrees\ChristmasTrees\obj\Debug\ChristmasTrees.exe
+E:\munka\SzendroiProg3\ChristmasTrees\ChristmasTrees\obj\Debug\ChristmasTrees.pdb
+d:\Oktatas\Programming2Angol\Gyakorlat\Gyak14\ChristmasTrees\ChristmasTrees\bin\Debug\ChristmasTrees.exe.config
+d:\Oktatas\Programming2Angol\Gyakorlat\Gyak14\ChristmasTrees\ChristmasTrees\obj\Debug\ChristmasTrees.exe
+d:\Oktatas\Programming2Angol\Gyakorlat\Gyak14\ChristmasTrees\ChristmasTrees\obj\Debug\ChristmasTrees.pdb
+d:\Oktatas\Programming2Angol\Gyakorlat\Gyak14\ChristmasTrees\ChristmasTrees\bin\Debug\ChristmasTrees.exe
+d:\Oktatas\Programming2Angol\Gyakorlat\Gyak14\ChristmasTrees\ChristmasTrees\bin\Debug\ChristmasTrees.pdb
+d:\Oktatas\Programming2Angol\Gyakorlat\Gyak14\ChristmasTrees\ChristmasTrees\obj\Debug\ChristmasTrees.csprojResolveAssemblyReference.cache
+d:\Oktatas\Programming2Angol\Gyakorlat\Gyak14\ChristmasTrees\ChristmasTrees\obj\Debug\ChristmasTrees.Form1.resources
+d:\Oktatas\Programming2Angol\Gyakorlat\Gyak14\ChristmasTrees\ChristmasTrees\obj\Debug\ChristmasTrees.Properties.Resources.resources
+d:\Oktatas\Programming2Angol\Gyakorlat\Gyak14\ChristmasTrees\ChristmasTrees\obj\Debug\ChristmasTrees.SizeForm.resources
+d:\Oktatas\Programming2Angol\Gyakorlat\Gyak14\ChristmasTrees\ChristmasTrees\obj\Debug\ChristmasTrees.VoteForm.resources
+d:\Oktatas\Programming2Angol\Gyakorlat\Gyak14\ChristmasTrees\ChristmasTrees\obj\Debug\ChristmasTrees.csproj.GenerateResource.Cache
+d:\Oktatas\Programming2Angol\Gyakorlat\Gyak14\ChristmasTrees\ChristmasTrees\obj\Debug\ChristmasTrees.AboutForm.resources
+d:\Oktatas\Programming2Angol\Gyakorlat\Gyak14\ChristmasTrees\ChristmasTrees\obj\Debug\ChristmasTrees.ResultForm.resources
+C:\Users\van khal imrane\Downloads\pROGRAMMING\ChristmasTreesSolution\ChristmasTrees\ChristmasTrees\bin\Debug\ChristmasTrees.exe.config
+C:\Users\van khal imrane\Downloads\pROGRAMMING\ChristmasTreesSolution\ChristmasTrees\ChristmasTrees\obj\Debug\ChristmasTrees.exe
+C:\Users\van khal imrane\Downloads\pROGRAMMING\ChristmasTreesSolution\ChristmasTrees\ChristmasTrees\obj\Debug\ChristmasTrees.pdb
+C:\Users\dell\Desktop\C#\solutions\ChristmasTreesSolution\ChristmasTrees\ChristmasTrees\bin\Debug\ChristmasTrees.exe.config
+C:\Users\dell\Desktop\C#\solutions\ChristmasTreesSolution\ChristmasTrees\ChristmasTrees\obj\Debug\ChristmasTrees.exe
+C:\Users\dell\Desktop\C#\solutions\ChristmasTreesSolution\ChristmasTrees\ChristmasTrees\obj\Debug\ChristmasTrees.pdb
